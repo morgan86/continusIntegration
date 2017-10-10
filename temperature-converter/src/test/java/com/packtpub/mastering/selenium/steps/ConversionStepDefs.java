@@ -43,7 +43,7 @@ public class ConversionStepDefs {
         //assertion
         fail("It is failed");
 //        assertEquals(temperatureConverterPage.actualResult(), temperatureConverterPage.expectedResult());
-        assertEquals(10, temperatureConverterPage.expectedResult());
+        assertEquals(10, 11);
         driver.quit();
     }
 }
