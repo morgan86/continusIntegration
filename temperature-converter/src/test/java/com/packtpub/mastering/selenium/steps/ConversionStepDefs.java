@@ -2,8 +2,7 @@ package com.packtpub.mastering.selenium.steps;
 
 import com.packtpub.mastering.selenium.pageobjects.Google;
 import com.packtpub.mastering.selenium.pageobjects.TemperatureConverterPage;
-import cucumber.annotation.After;
-import cucumber.annotation.Before;
+
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;
 import cucumber.annotation.en.When;
@@ -23,6 +22,7 @@ public class ConversionStepDefs {
     public TemperatureConverterPage temperatureConverterPage;
     @Given("^I want to  convert (\\d+).(\\d+) degree Fahrenheit to Celsius$")
     public void I_want_to_convert_degree_Fahrenheit_to_Celsius(int arg1, int arg2) throws Throwable {
+        fail("It is failed");
         driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
