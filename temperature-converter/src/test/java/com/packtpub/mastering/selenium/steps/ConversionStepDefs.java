@@ -28,7 +28,7 @@ public class ConversionStepDefs {
         driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
         googlePage = new Google(driver);
         temperatureConverterPage = googlePage.goToTemperatureConversionPage();
-
+        fail("It is failed");
     }
 
     @When("^I input the value of Fahrenheit as (\\d+).(\\d+) in text field$")
@@ -42,8 +42,7 @@ public class ConversionStepDefs {
     public void It_should_be_converted_to_Celsius_as_degree(int arg1) throws Throwable {
         //assertion
         fail("It is failed");
-//        assertEquals(temperatureConverterPage.actualResult(), temperatureConverterPage.expectedResult());
-        assertEquals(10, 11);
+        assertEquals(temperatureConverterPage.actualResult(), temperatureConverterPage.expectedResult());
         driver.quit();
     }
 }
