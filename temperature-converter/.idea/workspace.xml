@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54198724-7069-4f89-a044-80e33650742c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/packtpub/mastering/selenium/steps/ConversionStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/com/packtpub/mastering/selenium/steps/ConversionStepDefs.java" />
     </list>
     <ignored path="temperature-converter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="ConversionStepDefs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packtpub/mastering/selenium/steps/ConversionStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5839416">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.82481754">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -393,12 +392,12 @@
       <created>1507639963934</created>
       <option name="number" value="Default" />
       <updated>1507639963934</updated>
-      <workItem from="1507639965093" duration="1168000" />
+      <workItem from="1507639965093" duration="1463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1168000" />
+    <option name="totallyTimeSpent" value="1463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1200" extended-state="0" />
@@ -487,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/packtpub/mastering/selenium/steps/ConversionStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5839416">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.82481754">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
