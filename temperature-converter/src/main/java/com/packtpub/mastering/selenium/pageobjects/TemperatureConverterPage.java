@@ -26,6 +26,6 @@ public class TemperatureConverterPage {
         return valueOfCelsius;
     }
     public String expectedResult(){
-        return "36";
+        return "37";
     }
 }
