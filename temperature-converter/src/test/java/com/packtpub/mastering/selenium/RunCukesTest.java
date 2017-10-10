@@ -9,5 +9,6 @@ import cucumber.junit.Cucumber;
 @RunWith(Cucumber.class)
 @Cucumber.Options(format = {"pretty", "html:target/cucumber-htmlreport","json-pretty:target/cucumber-report.json"})
 
+// test
 public class RunCukesTest {
 }
