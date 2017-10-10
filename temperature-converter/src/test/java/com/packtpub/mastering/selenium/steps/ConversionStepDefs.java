@@ -27,6 +27,7 @@ public class ConversionStepDefs {
         driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
         googlePage = new Google(driver);
         temperatureConverterPage = googlePage.goToTemperatureConversionPage();
+        fail("It is failed");
     }
 
     @When("^I input the value of Fahrenheit as (\\d+).(\\d+) in text field$")
