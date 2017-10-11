@@ -22,8 +22,7 @@
           },
           {
             "result": {
-              "duration": 483593842,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 10,
             "name": "It should be converted to Celsius as 37 degree",
@@ -45,6 +44,6 @@
     "description": "\r\nFormula: C/5 \u003d (F - 32)/9\r\nC \u003d 5(F - 32)/9 \u003d 5(98.6 - 32 \u003d)/9  \u003d 37",
     "id": "convert-between-different-unit-of-temperatures",
     "keyword": "Feature",
-    "uri": "com\\packtpub\\mastering\\selenium\\Conversion.feature"
+    "uri": "com/packtpub/mastering/selenium/Conversion.feature"
   }
 ]

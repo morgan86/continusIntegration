@@ -1,2 +1,2 @@
-D:\Packt Publishing\Mastering Selenium Testing Tools_Video\ExampleCode_SeleniumVideo\temperature-converter\src\test\java\com\packtpub\mastering\selenium\RunCukesTest.java
-D:\Packt Publishing\Mastering Selenium Testing Tools_Video\ExampleCode_SeleniumVideo\temperature-converter\src\test\java\com\packtpub\mastering\selenium\steps\ConversionStepDefs.java
+/Users/jianxu/IdeaProjects/test/continusIntegration/temperature-converter/src/test/java/com/packtpub/mastering/selenium/RunCukesTest.java
+/Users/jianxu/IdeaProjects/test/continusIntegration/temperature-converter/src/test/java/com/packtpub/mastering/selenium/steps/ConversionStepDefs.java
